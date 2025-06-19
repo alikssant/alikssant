@@ -36,7 +36,12 @@ I'm Abatov Olloshukur (Alex)  a software engineer.
 
 ### ![](https://komarev.com/ghpvc/?username=alikssant&color=blue)
 
-## 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-ten-ashen.vercel.app?user=alikssant&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikssant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats-ten-ashen.vercel.app?user=alikssant&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" width="490"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikssant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="180" width="390"/>
+</p>
+
+
 
