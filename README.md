@@ -39,8 +39,8 @@ I'm Abatov Olloshukur (Alex)  a software engineer.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-ten-ashen.vercel.app?user=alikssant&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikssant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"  width="330"/>
+  <img src="https://github-readme-streak-stats4-ten-ashen.vercel.app?user=alikssant&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats4.vercel.app/api/top-langs/?username=alikssant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"  width="330"/>
 </p>
 
 
