@@ -38,6 +38,6 @@ I'm Abatov Olloshukur (Alex)  a software engineer.
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikssant&theme=dark&" alt="alikssant"/></p>
 
+<p><img align="center" src="https://github-readme-streak-stats4.vercel.app/?user=alikssant&theme=dark&" alt="alikssant"/></p>
 
